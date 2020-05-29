@@ -1,6 +1,6 @@
 export const BASE_URL = "https://carbon.now.sh";
 
-export const defaultOptions = {
+export const defaultQueryParams = {
   bg: "#FFFFFF",
   ds: false,
   dsblur: "50px",
